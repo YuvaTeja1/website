@@ -1,0 +1,23 @@
+.center{
+    margin: 1% 40% 0% 40%;
+    background-color: rgb(238, 234, 206);
+    border: 2px solid rgb(221, 176, 176);
+}
+.heading{
+    color: rgb(94, 113, 235);
+}
+.para{
+    color: rgb(227, 172, 20);
+}
+.subpara{
+    color: rgb(85, 240, 222);
+    font-weight: lighter;
+}
+.amount{
+    background-color: rgb(121, 121, 214);
+    color: rgb(244, 231, 231);
+}
+.subhead{
+    font-size: 500%;
+    font-weight: lighter;
+}
